@@ -1,0 +1,11 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+node_modules/
+bower_components/
+.vs
+package.json
+package-lock.json
+npm-debug.log
+gulpfile.js
+LICENSE

@@ -1,0 +1,2 @@
+# Divine Explorer
+We are team of spiritual seekers who combine learning spiritual wisdom with travel as we explore sacred energy spots or new destinations with a purpose to grow in wisdom.We invite you to become a part of Divine Explorer as you join our travels and become a part of creating a more conscious society.
