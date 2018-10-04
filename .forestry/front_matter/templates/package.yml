@@ -1,0 +1,40 @@
+---
+label: Package
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Package Name
+- type: text
+  label: Subtitle
+  name: subtitle
+  description: short description of package
+- type: textarea
+  name: package_description
+  label: Package description
+  description: detailed description
+- type: datetime
+  name: journey_date
+  label: Journey Date
+  description: Start Date of journey
+- type: datetime
+  name: journey_date
+  label: Journey Date
+  description: End Date of journey
+- type: file
+  name: location_image_
+  label: 'Location image '
+- type: textarea
+  label: Journey Guide
+  name: journey_guide
+  description: 'Details of Guide '
+- type: textarea
+  label: Journey Experience
+  name: journey_experience
+  description: 'Experience description '
+- type: textarea
+  name: places_covered
+  label: Places Covered
+  description: Details of journey locations
