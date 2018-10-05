@@ -58,5 +58,18 @@ fields:
   name: categories
   label: Categories
   description: package categories
+- type: text
+  name: excerpt_separator
+  label: excerpt_separator
+  description: "<!--more--> - use this..this is the small description that comes in
+    your package summary"
+  default: "<!--more-->"
+  config:
+    required: true
+- type: text
+  name: layout
+  label: layout
+  description: The layout for the packages is - package
+  default: package
 pages:
 - _journeys/trek-to-holy-cave-of-shri-mahavatar-babaji.md
