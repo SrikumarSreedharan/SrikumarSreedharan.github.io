@@ -22,6 +22,7 @@ journey-experience:
 journey-description:
 - Vaishwanara Vidya - Secrets of cosmic being.Many of us are sincerely trying to meditate but the practices we do bring neither prosperity and     nor peace or fulfillment. Sometimes as we start meditating, our life        becomes dry and gives happiness only in certain areas of life. If we        get wealth, we do not get peace of mind; and if we get name and fame,   we do not get harmonious relationships. Real right kind of meditation       should lead one to a complete fulfillment and a prosperous vibrant          blissful life! Should it not? But instead of meditating on the Whole we     actually are meditating on the partial and taking partial only as a     Whole because we simply cannot comprehend Whole! And that is the real       catch!
 guided: true
+featured: true
 tags: [Energy Spots, Guided, Himalayas, Kriya, Lessons, Meditate, Pilgrimage, Popular, Scenic locations, Spiritual, Temples, Treks]
 categories: [Popular,Temples]
 excerpt_separator: <!--more-->

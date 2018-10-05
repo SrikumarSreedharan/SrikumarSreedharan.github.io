@@ -22,6 +22,7 @@ journey-experience:
 journey-description:
 - One of the most spiritually significant and divine journeys to             experience serenity, attain salvation and grow spiritually. This pious     and sacred pilgrimage in the beautiful Garhwal Himalayas is a wonderful    opportunity to explore the beauty of the snow-clad magnificent Himalayas   and absorb the Hindu culture and its significance.This conscious travel    is to the sacred shrines at four prominent holy destinations – Yamunotri   (the abode of Shakti Yamuna),Gangotri (the abode of Shakti Ganga),         Kedarnath (the abode of Lord Shiva) and Badrinath (the abode of Lord       Vishnu) - also known as four ‘Dhams’, hence know as Char- ( four) Dham-(   holy destination). This pilgrimage is believed to purify your heart &      soul and quench your spiritual urges, hence thousands from world over      flock here.
 guided: false
+featured: true
 excerpt_separator: <!--more-->
 ---
 <p><b>Starting from Delhi we travel up north to:</b></p>

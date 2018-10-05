@@ -1,10 +1,15 @@
 {% assign category =  include.category %}
 {% assign limit =  include.limit %}
 {% assign guided =  include.IsGuided %}
-{% if guided=="true"  %}
-  {% assign packages = site.journeys | where: "guided", true %}
-  {% else %}
-  {% assign packages = site.journeys | where: "guided", false %}
+{% assign featured =  include.IsFeatured %}
+{% if featured =="true" %}
+{% assign guidedPackages = site.journeys | where: "featured", true %}
+{% endif %}
+
+{% if guided =="true" %} 
+  {% assign packages = guidedPackages | where: "guided", true %}
+  {% else %} 
+  {% assign packages = guidedPackages | where: "guided", false %}
 {% endif %}
     {% for journey in packages |limit: limit  %}
      

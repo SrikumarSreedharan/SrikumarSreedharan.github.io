@@ -14,7 +14,9 @@ journey-description: What is Enlightenment?<br>Secrets of sustained Enlightenmen
 thumbnail: "/images/Enlightenment divine travel_thumb.jpg"
 image: "/images/Enlightenment divine travel.jpg"
 guided: true
+featured: true
 map-image: ''
+
 journey-experience:
 -  The strong spiritual vibrations at Tiruvannamalai elevate us to different
     energy level. Temple visits, the girivalam ritual and satsangs ( spiritual discourses)

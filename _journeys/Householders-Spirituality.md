@@ -18,6 +18,7 @@ journey-experience:
 thumbnail: "/images/Bali spiritual journey(householder)_thumb.jpg"
 image: "/images/Bali spiritual journey(householder).jpg"
 guided: true
+featured: false
 journey-description: 'House-holder''s Spirituality,&nbsp;Love and family bonding,&nbsp;Prosperity
   Yoga - Seven dimensional prosperity,&nbsp;Self-sabotaging patterns: Recognition
   and Re-patterning,&nbsp;Law of Karma and beyond,&nbsp;Enlightenment – The Ultimate

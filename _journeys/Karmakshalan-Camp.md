@@ -23,6 +23,7 @@ journey-highlights:
   -  Sea Water Kriya.
   -  Learning Sessions by enlightened Masters Guruji Prem Nirmal and Guruma Bhartiji
 guided: true
+featured: true
 author: admin
 image: "/images/rameshwaram.jpg"
 thumbnail: "/images/rameshwaram-170x150.jpg"

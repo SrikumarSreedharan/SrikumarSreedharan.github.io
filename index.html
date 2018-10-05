@@ -32,7 +32,7 @@ layout: default
         </div>
 
         <div class="col-md-9 d-md-flex justify-content-sm-center flex-md-row flex-sm-column">
-            {% include all-packages.html category="Popular" limit="2" IsGuided="true" %}
+            {% include all-packages.html category="Popular" limit="2" IsGuided="true" IsFeatured="true" %}
         </div>
     </div>
     <div class="row pt-3 section-b" id="SelfGuided">
@@ -45,7 +45,7 @@ layout: default
             </a>
         </div>
         <div class="col-md-9 d-md-flex justify-content-sm-center flex-md-row flex-sm-column">
-            {% include all-packages.html category="Popular" limit="2" IsGuided="false" %}
+            {% include all-packages.html category="Popular" limit="2" IsGuided="false" IsFeatured="true" %}
         </div>
     </div>
 </section>

@@ -24,6 +24,7 @@ journey-experience:
 journey-description: |
  - Learn the secrets of the scripture “Yog Vasishtha” which gives the       understanding, scientific ideas and philosophy about the consciousness,   the creation of the world, the multiple universes, our perception of the  world, its ultimate dissolution, the liberation of the soul and the       non-dual approach to creation.
 guided: false
+featured: true
 categories: [Divine,Pilgrimage]
 tags: [Himalayas, Pilgrimage, Rafting, Spiritual, Treks, Yog Vasishtha]
 excerpt_separator: <!--more-->

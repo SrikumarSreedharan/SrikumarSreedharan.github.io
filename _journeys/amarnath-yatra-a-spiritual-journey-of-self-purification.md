@@ -28,6 +28,7 @@ journey-description: |
  How was the Universe created?
  What is immortality?
 guided: false
+featured: false
 excerpt_separator: <!--more-->
 ---
 <p><b>Pahalgam</b></p><p>Pahalgam, situated at the confluence of several streams this scenic town is also popularly known as the Valley of Shepherds. <!--more--> An ideal place to spend a day in serene contemplation as the soft mountain breeze serenades our senses.</p><p><b>Sheshnag:</b></p><p>Drive through spectacular countryside, admire traditional Kashmiri houses and be in the flow as you witness cascading waterfalls on both sides on the roads to Chandanwari. The trek to Sheshnag is up a steep incline surrounded by wild scenery untouched by civilization and commanding views of mountains and valley. Take each step up with awareness and let the beauty guide you forward with the help of friendly tea stalls to offer refreshing tea to give that extra energy. Camping at Sheshnag is a surreal experience. This glacial lake set in breathtaking surroundings has several  mythical stories, it is believed, Sheshnag Lake basically belongs to Sheshnag, the Lord of Snakes, and is said to be dug by the Lord himself.Because of its presence on the route to holy Amarnath Cave, Sheshnag Lake is also a sacred pilgrimage site.Its waters reflect the snow capped peaks of Vishnu, Shiva and Brahma.</p><p><b>Panchtarni:</b></p>

@@ -17,6 +17,7 @@ journey-description:
     The benefits of worshipping each of the Navagraha ( celestial body)
     Understand about the reflections of cosmic forces in your own consciousness
 guided: false
+featured: false
 categories: [Pilgrimage]
 tags: [Pilgrimage, Sacred Ceremony, Temples]
 excerpt_separator: <!--more-->

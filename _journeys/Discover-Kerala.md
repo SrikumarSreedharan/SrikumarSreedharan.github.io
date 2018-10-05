@@ -24,6 +24,7 @@ journey-experience:
 journey-description:
   -  The most appropriate introduction to this charming and diverse state located in South India would be to call it “God’s own country”. Abundant with all elements of nature combined with  a rich cultural heritage make it a traveler’s paradise. Driving along this intensely tropical landscape is an intoxicating experience, as you witness the stillness of natural beauty every moment as you take in sights of  rice paddy, rivers, lagoons, waterfalls, lush mountains, emerald green backwaters and pristine beaches.When you travel this extraordinary land you just don’t just sight- see, you ‘experience’- and the beauty becomes a part of your very core. Nodding coconut palms gracefully welcome you to an everlasting connection with this land.
 guided: false
+featured: true
 excerpt_separator: <!--more-->
 ---
 <p><b>Athirappally Waterfalls</b></p>
