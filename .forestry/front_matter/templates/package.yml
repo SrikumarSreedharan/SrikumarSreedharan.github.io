@@ -58,3 +58,5 @@ fields:
   name: categories
   label: Categories
   description: package categories
+pages:
+- _journeys/trek-to-holy-cave-of-shri-mahavatar-babaji.md
