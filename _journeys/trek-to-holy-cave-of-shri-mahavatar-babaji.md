@@ -47,6 +47,7 @@ journey-highlights:
 - A visit to the Dunagiri Mata Temple is a must for any spiritual seeker.
 - visit place where the distance between heaven and earth shrinks
 - trek to the holy cave of Shri Mahavatar Babaji to meditate there
+guided: true
 
 ---
 This divine journey takes us  trekking amidst the beautiful Kumaon mountains in Doonagiri, Uttarakhand to the very place where the secrets of Kriya Yoga were originally revealed<!--more--> to the modern world by Shri Mahavatar Babaji. This is the very spot where Babaji initiated Shri Lahiri Mahasaya in Kriya Yoga. We will trek to the holy cave of Shri Mahavatar Babaji to meditate there and absorb those spiritual vibes.  We will learn & quot; Vaishwanara Vidya - Secrets of Cosmic Being"  in a surrounding which is comfortable, minimalist yet authentically rich in natural beauty and  heritage. There is a very 'thin distance' between heaven and earth at this very special place.
