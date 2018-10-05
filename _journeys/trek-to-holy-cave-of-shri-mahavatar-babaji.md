@@ -27,7 +27,7 @@ journey_experience:
   Relax and let go to journey into the innermost recesses of the soul. Discover the
   unknown.
 guided_journey: true
-featured: true
+featured: false
 categories: []
 excerpt_separator: "<!--more-->"
 layout: package
