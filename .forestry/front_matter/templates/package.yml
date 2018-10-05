@@ -33,7 +33,7 @@ fields:
 - type: file
   name: thumbnail
   label: thumbnail
-  description: package thumbnail
+  description: package thumbnail- smaller size of the original image
 - type: file
   name: map_image
   label: Map image
