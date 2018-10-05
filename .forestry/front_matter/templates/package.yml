@@ -49,7 +49,7 @@ fields:
   label: Journey experience
   description: Journey experience
 - type: boolean
-  name: guided_journey
+  name: guided
   label: guided journey
   description: Guided yes or no
 - type: boolean
