@@ -12,7 +12,7 @@ fields:
   name: subtitle
   description: short description of package
 - type: textarea
-  name: package_description
+  name: journey-description
   label: journey description
   description: detailed description
 - type: datetime
@@ -39,11 +39,11 @@ fields:
   label: Map image
   description: location map
 - type: list
-  name: journey_highlight
+  name: journey-highlights
   label: Journey Highlight
   description: journey highlight
 - type: list
-  name: journey_experience
+  name: journey-experience
   label: Journey experience
   description: Journey experience
 - type: boolean
