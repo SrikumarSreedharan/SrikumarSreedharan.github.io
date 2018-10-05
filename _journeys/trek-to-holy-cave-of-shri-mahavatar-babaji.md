@@ -6,13 +6,12 @@ package_description: We will learn "Vaishwanara Vidya - Secrets of Cosmic Being"
   a surrounding which is comfortable, minimalist yet authentically rich in natural
   beauty and  heritage. There is a very 'thin distance' between heaven and earth at
   this very special place.
-
-
+location_image_: ''
 journey_guide: Dr. Nasiem Alwani and Sri. Sachin Vaidya guide us through this transforming
   journey as we understand how to merge materialism and spirituality and live a life
   of abundance. Both of them are spiritual seekers, who encourage us to learn by questioning
   and support their explanation with scientific proof.
-thumbnail: "/uploads/2018/10/05/Spiritual Journey.jpeg"
+thumbnail: "/uploads/2018/10/05/Uttrakhand Yatra Packages.jpg"
 map_image: ''
 journey_highlight:
 - Visit to Dwarhat where  the distance between heaven and earth shrinks
@@ -40,13 +39,15 @@ journey-experience:
 - Rejuvenate your Body-Mind-Soul at Nimb Karauri (Neem Karoli) Baba ashram at Kaichi
   Dham, Haidakhan Baba Temple at Ranikhet, Doonagiri Mata temple and Naina Devi.
 - Meditate in the holy caves and absorb those spiritual vibes.
-image: "/uploads/2018/10/05/DIVINE EXPLORER.jpg"
+image: "/uploads/2018/10/05/Spiritual Tour Packages.jpg"
 journey-highlights:
 - visits to the ashrams of Haidakhan Baba and Neem Karoli Baba.
 - A visit to the Dunagiri Mata Temple is a must for any spiritual seeker.
 - visit place where the distance between heaven and earth shrinks
 - trek to the holy cave of Shri Mahavatar Babaji to meditate there
 guided: true
+start-date: ''
+end-date: ''
 
 ---
 This divine journey takes us  trekking amidst the beautiful Kumaon mountains in Doonagiri, Uttarakhand to the very place where the secrets of Kriya Yoga <!--more-->were originally revealed to the modern world by Shri Mahavatar Babaji. This is the very spot where Babaji initiated Shri Lahiri Mahasaya in Kriya Yoga. We will trek to the holy cave of Shri Mahavatar Babaji to meditate there and absorb those spiritual vibes.  We will learn & quot; Vaishwanara Vidya - Secrets of Cosmic Being"  in a surrounding which is comfortable, minimalist yet authentically rich in natural beauty and  heritage. There is a very 'thin distance' between heaven and earth at this very special place.
