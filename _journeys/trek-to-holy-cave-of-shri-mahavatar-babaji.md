@@ -31,7 +31,9 @@ featured: true
 categories: []
 excerpt_separator: "<!--more-->"
 layout: package
-journey-description: ''
+journey-description: 'We will learn "Vaishwanara Vidya - Secrets of Cosmic Being"  in
+  a surrounding which is comfortable, minimalistic yet authentically rich in natural
+  beauty and  heritage. '
 journey-experience:
 - Discover the unknown
 - Relax and let go to journey into the innermost recesses of the soul.
