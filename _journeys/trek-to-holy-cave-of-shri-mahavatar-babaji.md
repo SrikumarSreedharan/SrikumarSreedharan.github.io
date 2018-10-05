@@ -6,8 +6,8 @@ package_description: We will learn "Vaishwanara Vidya - Secrets of Cosmic Being"
   a surrounding which is comfortable, minimalist yet authentically rich in natural
   beauty and  heritage. There is a very 'thin distance' between heaven and earth at
   this very special place.
-journey_date: ''
-location_image_: ''
+
+
 journey_guide: Dr. Nasiem Alwani and Sri. Sachin Vaidya guide us through this transforming
   journey as we understand how to merge materialism and spirituality and live a life
   of abundance. Both of them are spiritual seekers, who encourage us to learn by questioning
@@ -26,7 +26,6 @@ journey_experience:
   at Ranikhet, Doonagiri Mata temple and Naina Devi. Reunite with self through nature.
   Relax and let go to journey into the innermost recesses of the soul. Discover the
   unknown.
-guided_journey: true
 featured: true
 categories: []
 excerpt_separator: "<!--more-->"

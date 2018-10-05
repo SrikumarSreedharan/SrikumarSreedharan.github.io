@@ -23,6 +23,12 @@ layout: default
             <div id="#Journey-guides" class="py-3">
                     <h3 class="text-primary"><img src="{{site.baseurl}}/images/spiritual_master.png" alt="{{page.title}}"/><b>Journey</b> guides</h3>
                     {% if page.guided %}
+                    {{ page.journey_guide}}
+                    {% if page.journey_guide %}
+                        {{ page.journey_guide}}
+
+                    {% else %}
+
                         <p>
                                 Guruji Prem Nirmal and Guruma Bharti Ji guide us through this transforming journey as we understand how to merge materialism and spirituality and live a life of abundance.
 
@@ -31,6 +37,7 @@ layout: default
                                 Both Guruji and Guruma are spiritual scientists, who encourage us to learn by questioning and support their explanation scientific proof.
                         
                         </p>
+                        {% endif %}
                         {% else %}
                         <p>
 

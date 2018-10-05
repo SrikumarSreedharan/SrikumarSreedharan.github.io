@@ -6,11 +6,14 @@
 {% assign guidedPackages = site.journeys | where: "featured", true %}
 {% endif %}
 
+
+
 {% if guided =="true" %} 
   {% assign packages = guidedPackages | where: "guided", true %}
-  {% else %} 
+    {% else %} 
   {% assign packages = guidedPackages | where: "guided", false %}
 {% endif %}
+
     {% for journey in packages |limit: limit  %}
      
     <div class="col-md-6 col-sm-12">
