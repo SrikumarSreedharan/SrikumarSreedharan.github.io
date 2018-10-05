@@ -29,7 +29,6 @@ journey_experience:
 guided_journey: true
 featured: true
 categories: []
-published: false
 
 ---
 ## **Places Covered**
