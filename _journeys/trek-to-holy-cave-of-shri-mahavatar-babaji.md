@@ -21,37 +21,11 @@ published: false
 ---
 Places Covered
 
-This divine journey takes us  trekking amidst the beautiful Kumaon mountains in
+This divine journey takes us  trekking amidst the beautiful Kumaon mountains in Doonagiri, Uttarakhand to the very place where the secrets of Kriya Yoga were originally revealed to the modern world by Shri Mahavatar Babaji. This is the very spot where Babaji initiated Shri Lahiri Mahasaya in Kriya Yoga. We will trek to the holy cave of Shri Mahavatar Babaji to meditate there and absorb those spiritual vibes.  We will learn &quot;Vaishwanara Vidya - Secrets of Cosmic Being&quot;  in a surrounding which is comfortable, minimalistic yet authentically rich in natural beauty and  heritage. There is a very &#39;thin distance&#39; between heaven and earth at this very special place.
 
-Doonagiri, Uttarakhand to the very place where the secrets of Kriya Yoga were originally
+ Nainital
 
-revealed to the modern world by Shri Mahavatar Babaji. This is the very spot where
-
-Babaji initiated Shri Lahiri Mahasaya in Kriya Yoga. We will trek to the holy cave of Shri
-
-Mahavatar Babaji to meditate there and absorb those spiritual vibes.  We will learn
-
-&quot;Vaishwanara Vidya - Secrets of Cosmic Being&quot;  in a surrounding which is comfortable,
-
-minimalistic yet authentically rich in natural beauty and  heritage. There is a very &#39;thin
-
-distance&#39; between heaven and earth at this very special place.
-
- 
-
-Nainital
-
-Nanital is known as the ‘Lake District” of Uttrakhand. Here, the Naini Lake, ringed
-
-around by beautiful hills is believed to be one of the 64 Shakti Peeths (energy spots).
-
-Mythology says that  parts of the charred body of Sati’s (the embodiment of female
-
-Shakti/energy)  fell on earth while being carried by Lord Shiva. The spot where Sati&#39;s
-
-eyes (or Nain) fell, came to be called Nain-tal or lake of the eye. In the Naina Devi
-
-Temple located near the lake, Goddess Shakti is worshiped.
+Nanital is known as the ‘Lake District” of Uttrakhand. Here, the Naini Lake, ringed around by beautiful hills is believed to be one of the 64 Shakti Peeths (energy spots). Mythology says that  parts of the charred body of Sati’s (the embodiment of female Shakti/energy)  fell on earth while being carried by Lord Shiva. The spot where Sati eyes (or Nain) fell, came to be called Nain-tal or lake of the eye. In the Naina Devi Temple located near the lake, Goddess Shakti is worshiped.
 
 Dwarhat
 
