@@ -42,7 +42,7 @@ map_image: ''
 guided_journey: false
 
 ---
-<p>Launch on a odyssey of the galaxy to circumambulate the Temples dedicated to the 9 Planets the **Navagrahas** or the 9 celestial bodies.<!--more--></p>
+<p>Launch on a odyssey of the galaxy to circumambulate the Temples dedicated to the 9 Planets the Navagrahas or the 9 celestial bodies.<!--more--></p>
 <p>The celestial bodies are reflections in our own self.</p>
 <p>Sun- Soul power /energy/ energy source/willpower /iccha shakti</p>
 <p>Moon- mind and emotions /nurturing/ /team building</p>
