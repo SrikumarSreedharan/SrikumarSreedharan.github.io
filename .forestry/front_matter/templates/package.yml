@@ -74,6 +74,7 @@ fields:
   description: The layout for the packages is - package
   default: package
 pages:
+- _journeys/Enlightenment-Intensive-Retreat.md
 - _journeys/trek-to-holy-cave-of-shri-mahavatar-babaji.md
 - _journeys/Karmakshalan-Camp.md
 - _journeys/Navagraha-Temple-Pilgrimage.md
