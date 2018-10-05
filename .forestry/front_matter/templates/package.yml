@@ -25,7 +25,7 @@ fields:
   description: End Date of journey
 - type: file
   name: image
-  label: 'Location image '
+  label: 'Main image '
   description: Add the header image here. This will be shown on the package details
     page.
 - type: textarea
