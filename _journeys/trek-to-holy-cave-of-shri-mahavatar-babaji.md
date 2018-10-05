@@ -8,7 +8,10 @@ package_description: We will learn "Vaishwanara Vidya - Secrets of Cosmic Being"
   this very special place.
 journey_date: ''
 location_image_: ''
-journey_guide: ''
+journey_guide: Dr. Nasiem Alwani and Sri. Sachin Vaidya guide us through this transforming
+  journey as we understand how to merge materialism and spirituality and live a life
+  of abundance. Both of them are spiritual seekers, who encourage us to learn by questioning
+  and support their explanation with scientific proof.
 thumbnail: "/uploads/2018/10/05/Spiritual Journey.jpeg"
 map_image: ''
 journey_highlight: []
@@ -31,6 +34,6 @@ Dwarhat
 
 Is there a place where the distance between heaven and earth shrinks?  Literally translated - ‘Dwar’ means gateway and ‘hat’ means heaven - thus Dwarhat can also be called ‘gateway to heaven’, where one feels the heaven on earth. Dwarhat is also the home of many sages, ashrams, temples of great spiritual importance, no wonder it recognized as one of the energy centres.
 
- 
+Dunagiri 
 
 Dunagiri is an area in Kumaon, in an incredibly beautiful setting within themagnificent Himalayas. Dunagiri is also known as the birthplace of modern day Kriya Yoga. It is at Dunagiri in 1861 that the divine current of Kriya Yoga was revealed by Mahavatar Babaji to Shyamacharan Lahiri. It is at Dunagiri that Mahavatar Babaji is said to have given initiation to Haidakhan Baba in Manas yoga, to Neem Karoli Baba in Mantra yoga .It is believed that  the area of Dunagiri is still blessed by the energizing vibrations of Babaji. So strong are the divine vibrations here that one feels very closely connected to god and is able to perceive something of heaven itself.  A visit to the Dunagiri Mata Temple is a must for any spiritual seeker. The Goddess at Dunagiri is the Goddess of yogis, she grants nothing but liberation! One will experience tangible vibrations during the  visits to the ashrams of Haidakhan Baba and Neem Karoli Baba. Sharing of spiritual stories and meditations at these evolved locations will rejuvenate spiritual seekers.
