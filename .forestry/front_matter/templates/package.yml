@@ -13,7 +13,7 @@ fields:
   description: short description of package
 - type: textarea
   name: package_description
-  label: Package description
+  label: journey description
   description: detailed description
 - type: datetime
   name: journey_date
@@ -30,11 +30,3 @@ fields:
   label: Journey Guide
   name: journey_guide
   description: 'Details of Guide '
-- type: textarea
-  label: Journey Experience
-  name: journey_experience
-  description: 'Experience description '
-- type: textarea
-  name: places_covered
-  label: Places Covered
-  description: Details of journey locations
