@@ -30,3 +30,31 @@ fields:
   label: Journey Guide
   name: journey_guide
   description: 'Details of Guide '
+- type: file
+  name: thumbnail
+  label: thumbnail
+  description: package thumbnail
+- type: file
+  name: map_image
+  label: Map image
+  description: location map
+- type: list
+  name: journey_highlight
+  label: Journey Highlight
+  description: journey highlight
+- type: list
+  name: journey_experience
+  label: Journey experience
+  description: Journey experience
+- type: boolean
+  name: guided_journey
+  label: guided journey
+  description: Guided yes or no
+- type: boolean
+  name: featured
+  label: Featured
+  description: Featured journey
+- type: tag_list
+  name: categories
+  label: Categories
+  description: package categories
