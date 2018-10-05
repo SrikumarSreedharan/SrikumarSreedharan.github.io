@@ -16,12 +16,12 @@ fields:
   label: journey description
   description: detailed description
 - type: datetime
-  name: journey_date
-  label: Journey Date
+  name: start-date
+  label: start date
   description: Start Date of journey
 - type: datetime
-  name: journey_date
-  label: Journey Date
+  name: end-date
+  label: End Date
   description: End Date of journey
 - type: file
   name: image
