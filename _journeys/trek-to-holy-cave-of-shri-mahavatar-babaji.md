@@ -31,6 +31,14 @@ featured: true
 categories: []
 excerpt_separator: "<!--more-->"
 layout: package
+journey-description: ''
+journey-experience:
+- Discover the unknown
+- Relax and let go to journey into the innermost recesses of the soul.
+- Reunite with self through nature.
+- Rejuvenate your Body-Mind-Soul at Nimb Karauri (Neem Karoli) Baba ashram at Kaichi
+  Dham, Haidakhan Baba Temple at Ranikhet, Doonagiri Mata temple and Naina Devi.
+- Meditate in the holy caves and absorb those spiritual vibes.
 
 ---
 This divine journey takes us  trekking amidst the beautiful Kumaon mountains in Doonagiri, Uttarakhand to the very place where the secrets of Kriya Yoga were originally revealed<!--more--> to the modern world by Shri Mahavatar Babaji. This is the very spot where Babaji initiated Shri Lahiri Mahasaya in Kriya Yoga. We will trek to the holy cave of Shri Mahavatar Babaji to meditate there and absorb those spiritual vibes.  We will learn & quot; Vaishwanara Vidya - Secrets of Cosmic Being"  in a surrounding which is comfortable, minimalist yet authentically rich in natural beauty and  heritage. There is a very 'thin distance' between heaven and earth at this very special place.
