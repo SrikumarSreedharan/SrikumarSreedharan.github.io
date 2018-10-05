@@ -30,7 +30,7 @@ fields:
     page.
 - type: textarea
   label: Journey Guide
-  name: journey-guide
+  name: journey_guide
   description: 'Details of Guide '
 - type: file
   name: thumbnail
