@@ -55,7 +55,7 @@ fields:
 - type: boolean
   name: featured
   label: Featured
-  description: Featured journey
+  description: " Setting this to true makes it visible on the home page."
 - type: tag_list
   name: categories
   label: Categories
