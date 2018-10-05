@@ -24,7 +24,7 @@ fields:
   label: Journey Date
   description: End Date of journey
 - type: file
-  name: location_image_
+  name: image
   label: 'Location image '
 - type: textarea
   label: Journey Guide
