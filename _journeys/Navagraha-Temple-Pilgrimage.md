@@ -35,9 +35,14 @@ tags:
 - Sacred Ceremony
 - Temples
 excerpt_separator: "<!--more-->"
+subtitle: ''
+journey_date: ''
+journey_guide: ''
+map_image: ''
+guided_journey: false
 
 ---
-<p>Launch on a odyssey of the galaxy to circumambulate the Temples dedicated to the 9 Planets the Navagrahas or the 9 celestial bodies.<!--more--></p>
+<p>Launch on a odyssey of the galaxy to circumambulate the Temples dedicated to the 9 Planets the **Navagrahas** or the 9 celestial bodies.<!--more--></p>
 <p>The celestial bodies are reflections in our own self.</p>
 <p>Sun- Soul power /energy/ energy source/willpower /iccha shakti</p>
 <p>Moon- mind and emotions /nurturing/ /team building</p>
@@ -48,5 +53,5 @@ excerpt_separator: "<!--more-->"
 <p>Saturn- governs law of karma/justice/spirituality/ discriminative intellect….</p>
 <p>Ketu-  health/wealth/prosperity</p>
 <p>Rahu- strength/ protection from enemies</p>
-<p><strong>Kumbakonam &amp; Mayiladuthurai :</strong> Known as the temple town, Kumbakonam is also one of the oldest towns in Tamil Nadu.</p>
+<p><strong>Kumbakonam & Mayiladuthurai :</strong> Known as the temple town, Kumbakonam is also one of the oldest towns in Tamil Nadu.</p>
 <p><strong>Mayiladuthurai-</strong>the playground of the “dancing peacock” All the Navagraha temples are located around this town.</p>
