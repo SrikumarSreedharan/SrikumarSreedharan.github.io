@@ -1,7 +1,6 @@
 ---
 label: Package
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -74,8 +73,8 @@ fields:
   description: The layout for the packages is - package
   default: package
 pages:
-- _journeys/Navagraha-Temple-Pilgrimage.md
 - _journeys/trek-to-holy-cave-of-shri-mahavatar-babaji.md
-- _journeys/abc.md
-- _journeys/Karmakshalan-Camp.md
+- _journeys/Navagraha-Temple-Pilgrimage.md
 - _journeys/Enlightenment-Intensive-Retreat.md
+- _journeys/Karmakshalan-Camp.md
+- _journeys/abc.md
